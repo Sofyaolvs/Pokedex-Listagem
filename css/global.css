@@ -7,7 +7,9 @@
 body{
   background-color: antiquewhite;
 }
+
 .content{
+  
   padding: 1rem;
   background-color: #ffff;
   height: 100vh;
